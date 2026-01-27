@@ -1,2 +1,1 @@
-console.log("inline script loaded");
-
+console.log("Index JS loaded");
